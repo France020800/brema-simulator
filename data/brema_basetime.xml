@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world_aquatics_basetimes>
+  <course type="SCM" unit="25m" validity_period="01.09.2025-31.08.2026">
+    <gender name="Uomini">
+      <event>
+        <stroke>50m Stile Libero</stroke>
+        <basetime_seconds>20.84</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Stile Libero</stroke>
+        <basetime_seconds>45.97</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Stile Libero</stroke>
+        <basetime_seconds>100.41</basetime_seconds>
+      </event>
+      <event>
+        <stroke>400m Stile Libero</stroke>
+        <basetime_seconds>216.11</basetime_seconds>
+      </event>
+      <event>
+        <stroke>800m Stile Libero</stroke>
+        <basetime_seconds>440.46</basetime_seconds>
+      </event>
+      <event>
+        <stroke>1500m Stile Libero</stroke>
+        <basetime_seconds>861.08</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Dorso</stroke>
+        <basetime_seconds>22.11</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Dorso</stroke>
+        <basetime_seconds>49.82</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Dorso</stroke>
+        <basetime_seconds>109.26</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Rana</stroke>
+        <basetime_seconds>24.95</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Rana</stroke>
+        <basetime_seconds>57.07</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Rana</stroke>
+        <basetime_seconds>123.39</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Farfalla</stroke>
+        <basetime_seconds>21.32</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Farfalla</stroke>
+        <basetime_seconds>49.83</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Farfalla</stroke>
+        <basetime_seconds>110.44</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Misti</stroke>
+        <basetime_seconds>49.28</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Misti</stroke>
+        <basetime_seconds>112.49</basetime_seconds>
+      </event>
+      <event>
+        <stroke>400m Misti</stroke>
+        <basetime_seconds>239.09</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x50m Stile Libero</stroke>
+        <basetime_seconds>81.80</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x100m Stile Libero</stroke>
+        <basetime_seconds>183.51</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x200m Stile Libero</stroke>
+        <basetime_seconds>400.51</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x50m Misti</stroke>
+        <basetime_seconds>89.72</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x100m Misti</stroke>
+        <basetime_seconds>202.96</basetime_seconds>
+      </event>
+    </gender>
+    <gender name="Donne">
+      <event>
+        <stroke>50m Stile Libero</stroke>
+        <basetime_seconds>23.65</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Stile Libero</stroke>
+        <basetime_seconds>51.80</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Stile Libero</stroke>
+        <basetime_seconds>112.58</basetime_seconds>
+      </event>
+      <event>
+        <stroke>400m Stile Libero</stroke>
+        <basetime_seconds>237.60</basetime_seconds>
+      </event>
+      <event>
+        <stroke>800m Stile Libero</stroke>
+        <basetime_seconds>488.89</basetime_seconds>
+      </event>
+      <event>
+        <stroke>1500m Stile Libero</stroke>
+        <basetime_seconds>908.24</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Dorso</stroke>
+        <basetime_seconds>25.23</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Dorso</stroke>
+        <basetime_seconds>56.49</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Dorso</stroke>
+        <basetime_seconds>122.36</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Rana</stroke>
+        <basetime_seconds>28.37</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Rana</stroke>
+        <basetime_seconds>64.46</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Rana</stroke>
+        <basetime_seconds>138.09</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Farfalla</stroke>
+        <basetime_seconds>23.94</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Farfalla</stroke>
+        <basetime_seconds>55.88</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Farfalla</stroke>
+        <basetime_seconds>123.49</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Misti</stroke>
+        <basetime_seconds>55.11</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Misti</stroke>
+        <basetime_seconds>126.25</basetime_seconds>
+      </event>
+      <event>
+        <stroke>400m Misti</stroke>
+        <basetime_seconds>266.45</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x50m Stile Libero</stroke>
+        <basetime_seconds>92.50</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x100m Stile Libero</stroke>
+        <basetime_seconds>207.11</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x200m Stile Libero</stroke>
+        <basetime_seconds>450.13</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x50m Misti</stroke>
+        <basetime_seconds>102.35</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x100m Misti</stroke>
+        <basetime_seconds>228.99</basetime_seconds>
+      </event>
+    </gender>
+    <gender name="Mixed">
+      <event>
+        <stroke>4x50m Stile Libero</stroke>
+        <basetime_seconds>87.33</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x50m Misti</stroke>
+        <basetime_seconds>95.15</basetime_seconds>
+      </event>
+    </gender>
+  </course>
+  <course type="LCM" unit="50m" validity_period="01.01.2025-31.12.2025">
+    <gender name="Uomini">
+      <event>
+        <stroke>50m Stile Libero</stroke>
+        <basetime_seconds>20.91</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Stile Libero</stroke>
+        <basetime_seconds>46.40</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Stile Libero</stroke>
+        <basetime_seconds>102.00</basetime_seconds>
+      </event>
+      <event>
+        <stroke>400m Stile Libero</stroke>
+        <basetime_seconds>220.07</basetime_seconds>
+      </event>
+      <event>
+        <stroke>800m Stile Libero</stroke>
+        <basetime_seconds>452.12</basetime_seconds>
+      </event>
+      <event>
+        <stroke>1500m Stile Libero</stroke>
+        <basetime_seconds>870.67</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Dorso</stroke>
+        <basetime_seconds>23.55</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Dorso</stroke>
+        <basetime_seconds>51.60</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Dorso</stroke>
+        <basetime_seconds>111.92</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Rana</stroke>
+        <basetime_seconds>25.95</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Rana</stroke>
+        <basetime_seconds>56.88</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Rana</stroke>
+        <basetime_seconds>125.48</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Farfalla</stroke>
+        <basetime_seconds>22.27</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Farfalla</stroke>
+        <basetime_seconds>49.45</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Farfalla</stroke>
+        <basetime_seconds>110.34</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Misti</stroke>
+        <basetime_seconds>114.00</basetime_seconds>
+      </event>
+      <event>
+        <stroke>400m Misti</stroke>
+        <basetime_seconds>242.50</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x100m Stile Libero</stroke>
+        <basetime_seconds>188.24</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x200m Stile Libero</stroke>
+        <basetime_seconds>418.55</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x100m Misti</stroke>
+        <basetime_seconds>206.78</basetime_seconds>
+      </event>
+    </gender>
+    <gender name="Donne">
+      <event>
+        <stroke>50m Stile Libero</stroke>
+        <basetime_seconds>23.61</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Stile Libero</stroke>
+        <basetime_seconds>51.71</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Stile Libero</stroke>
+        <basetime_seconds>112.23</basetime_seconds>
+      </event>
+      <event>
+        <stroke>400m Stile Libero</stroke>
+        <basetime_seconds>235.38</basetime_seconds>
+      </event>
+      <event>
+        <stroke>800m Stile Libero</stroke>
+        <basetime_seconds>484.79</basetime_seconds>
+      </event>
+      <event>
+        <stroke>1500m Stile Libero</stroke>
+        <basetime_seconds>920.48</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Dorso</stroke>
+        <basetime_seconds>26.86</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Dorso</stroke>
+        <basetime_seconds>57.13</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Dorso</stroke>
+        <basetime_seconds>123.14</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Rana</stroke>
+        <basetime_seconds>29.16</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Rana</stroke>
+        <basetime_seconds>64.13</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Rana</stroke>
+        <basetime_seconds>137.55</basetime_seconds>
+      </event>
+      <event>
+        <stroke>50m Farfalla</stroke>
+        <basetime_seconds>24.43</basetime_seconds>
+      </event>
+      <event>
+        <stroke>100m Farfalla</stroke>
+        <basetime_seconds>55.18</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Farfalla</stroke>
+        <basetime_seconds>121.81</basetime_seconds>
+      </event>
+      <event>
+        <stroke>200m Misti</stroke>
+        <basetime_seconds>126.12</basetime_seconds>
+      </event>
+      <event>
+        <stroke>400m Misti</stroke>
+        <basetime_seconds>264.38</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x100m Stile Libero</stroke>
+        <basetime_seconds>207.96</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x200m Stile Libero</stroke>
+        <basetime_seconds>457.50</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x100m Misti</stroke>
+        <basetime_seconds>229.63</basetime_seconds>
+      </event>
+    </gender>
+    <gender name="Mixed">
+      <event>
+        <stroke>4x100m Stile Libero</stroke>
+        <basetime_seconds>198.83</basetime_seconds>
+      </event>
+      <event>
+        <stroke>4x100m Misti</stroke>
+        <basetime_seconds>217.43</basetime_seconds>
+      </event>
+    </gender>
+  </course>
+</world_aquatics_basetimes>
