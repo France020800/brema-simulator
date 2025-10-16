@@ -15,7 +15,6 @@ def find_basetime(root, course, gender, stroke):
     Returns:
         float: The base time in seconds, or None if not found.
     """
-    # XPath to find the correct event based on course, gender, and stroke
     query = (f"./course[@type='{course.upper()}']/"
              f"gender[@name='{gender.capitalize()}']/"
              f"event[stroke='{stroke}']")
